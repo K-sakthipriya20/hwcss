@@ -1,0 +1,44 @@
+body
+{
+    font-family:  'Times New Roman';
+    font-size: 20px;
+    font-style:oblique;
+    background-color: #cdd7fa;
+}
+header
+{
+    background-color:#cdd7f;
+}
+nav
+{
+    background-color:white;
+    
+}
+main
+{
+    background-color: #cbd4f2;
+    font-size: 25px;
+}
+footer
+{
+    background-color:aliceblue;
+    color:black
+}
+li
+{
+    display:inline-block;
+    width: 200px;
+    text-align-last: center;
+}
+h1
+{
+    text-align:center;
+    font-family:garamond;
+    color:rgb(62, 62, 131)
+ 
+}
+p
+{
+    line-height:100%;
+}
+
